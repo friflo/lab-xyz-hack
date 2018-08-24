@@ -1,0 +1,17 @@
+{
+  "name": "lab-xyz",
+  "version": "1.0.0",
+  "description": "Some demo code for making maps with HERE XYZ Spaces",
+  "main": "index.js",
+  "scripts": {
+    "http-server": "http-server -p 4444"
+  },
+  "dependencies": {
+    "tar-fs": "1.16.3",
+    "stream-json": "1.1.1",
+    "command-line-args": "5.0.2"
+  },
+  "devDependencies": {
+    "http-server": "0.11.1"
+  }
+}

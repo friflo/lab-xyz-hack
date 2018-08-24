@@ -1,0 +1,8 @@
+
+/out
+*.json.gz
+*.json.tar
+*.txt
+states_2018-08-20-00.json
+states.json
+
