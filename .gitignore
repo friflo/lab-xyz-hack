@@ -5,4 +5,5 @@
 *.txt
 states_2018-08-20-00.json
 states.json
-
+node_modules
+package-lock.json
