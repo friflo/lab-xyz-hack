@@ -7,7 +7,7 @@
     "http-server": "http-server -p 4444"
   },
   "dependencies": {
-    "tar-fs": "1.16.3",
+    "tar-fs": ">=1.16.5"
     "stream-json": "1.1.1",
     "command-line-args": "5.0.2"
   },
